@@ -9,13 +9,13 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: '[Battlecode Simulation v2 (NB)](resources/numericalstrategy_2)
+related_resources_text: '[Battlecode Simulation v2 (NB)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/numericalstrategy_2)
 
 
-  [Battlecode Simulation v4 (NB)](resources/numericalstrategy_4)
+  [Battlecode Simulation v4 (NB)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/numericalstrategy_4)
 
 
-  [Battlecode Simulation v4 (PDF)](resources/mit6_370iap13_numstrat_4)'
+  [Battlecode Simulation v4 (PDF)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/mit6_370iap13_numstrat_4)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Numerical Strategy'

@@ -9,14 +9,14 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: '[Max''s Useful Battlecode Datasheet (PDF)](resources/mit6_370iap13_btlecde_dsht)
+related_resources_text: '[Max''s Useful Battlecode Datasheet (PDF)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/mit6_370iap13_btlecde_dsht)
 
 
-  [Mapmaker (NB)](resources/mapmaker)
+  [Mapmaker (NB)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/mapmaker)
 
 
-  [Lecture 3 Robot Player Release (ZIP)](resources/lec3robotplayer) (This ZIP file
-  contains: 1 .java file.)'
+  [Lecture 3 Robot Player Release (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/lec3robotplayer)
+  (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Navigation'

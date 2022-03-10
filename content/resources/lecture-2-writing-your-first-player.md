@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: '[Lecture 2 Robot Player Release (ZIP)](resources/lec2robotplayer)
+related_resources_text: '[Lecture 2 Robot Player Release (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/lec2robotplayer)
   (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video

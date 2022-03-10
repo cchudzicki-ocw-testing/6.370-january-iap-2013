@@ -9,11 +9,12 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: '[Guided Swarm 2 (ZIP)](resources/guidedswarm2) (This ZIP
-  file contains: 1 .java file.)
+related_resources_text: '[Guided Swarm 2 (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/guidedswarm2)
+  (This ZIP file contains: 1 .java file.)
 
 
-  [Swarm 4 (ZIP)](resources/swarm4) (This ZIP file contains: 1 .java file.)'
+  [Swarm 4 (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/swarm4)
+  (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Swarms, Artillery, and Mines'

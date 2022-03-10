@@ -12,12 +12,12 @@ parent_type: CourseSection
 related_resources_text: '[Notes from Git and File Sharing Tutorial (TXT)](./resolveuid/8e740ec915cee88db1065665db3da5e1)
 
 
-  [Lecture 4 Robot Player Release (ZIP)](resources/lec4robotplayer) (This ZIP file
-  contains: 1 .java file.)
+  [Lecture 4 Robot Player Release (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/lec4robotplayer)
+  (This ZIP file contains: 1 .java file.)
 
 
-  [Package Example (ZIP)](resources/packageexample) (This ZIP file contains: 5 .java
-  file.)'
+  [Package Example (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/packageexample)
+  (This ZIP file contains: 5 .java file.)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Git Repository'
