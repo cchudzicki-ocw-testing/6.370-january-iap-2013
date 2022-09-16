@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a detailed description of the Battlecode software,
+  the installation process, configuration, and guidelines on getting started.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Specs and Software
@@ -7,6 +9,8 @@ parent_type: CourseSection
 parent_uid: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
 title: Battlecode 2013 Software
 uid: 5c284dcb-09b7-b8e2-b704-cf0a29e6f23a
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link b953ba9d-34cd-a7ba-c5ff-0952e4179b9a "Return to Specs and Software" %}}

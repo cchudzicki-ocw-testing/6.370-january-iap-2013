@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -18,6 +20,7 @@ related_resources_text: '[Battlecode Simulation v2 (NB)](/courses/6-370-the-batt
   [Battlecode Simulation v4 (PDF)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/mit6_370iap13_numstrat_4)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Numerical Strategy'
 uid: 855b68af-1468-b288-d7e6-ef6d56875c7b
 video_files:
@@ -32,3 +35,4 @@ video_metadata:
 **Description:** This lecture focuses on analyzing various strategies and the effects of various parameters of Battlecode. Graphs depicting the balance of generators and suppliers, and analysis of medbays and artilleries are presented.
 
 **Instructor:** Maxwell Mann
+

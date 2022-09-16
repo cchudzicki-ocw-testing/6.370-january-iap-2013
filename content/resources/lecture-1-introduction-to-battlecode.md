@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction to Battlecode'
 uid: bc537e8e-2991-1e25-1fb8-a0da159d58e8
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture introduces Battlecode, course and competition logistics, the changes to gameplay since the previous year, and a brief overview of the centralized information provided to players.
 
 **Instructor:** Maxwell Mann
+

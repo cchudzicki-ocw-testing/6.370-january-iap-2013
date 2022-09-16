@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides an overview of Battlecode, the real-time strategy
+  game used to conduct an artificial intelligence programming contest in the course.
+  This section also includes links to gameplay specs, guidelines on getting started,
+  and software downloads.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Specs and Software
 uid: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
+video_metadata:
+  youtube_id: null
 ---
 
 Plot

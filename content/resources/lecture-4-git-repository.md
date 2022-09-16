@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -20,6 +22,7 @@ related_resources_text: '[Notes from Git and File Sharing Tutorial (TXT)](./reso
   (This ZIP file contains: 5 .java file.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Git Repository'
 uid: a8a845b9-f1ec-1dab-da99-86b285dffaed
 video_files:
@@ -34,3 +37,4 @@ video_metadata:
 **Description:** This lecture covers the importance of maintaining organized code and includes a walk-through of how to share and manage files using a Git repository.
 
 **Instructor:** Maxwell Mann and Aaron Epstein
+

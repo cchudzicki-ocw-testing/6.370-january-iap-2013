@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Lessons from the Sprint Tournament'
 uid: 4d593ea9-b631-697c-52b7-75af8642cae5
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers some map-dependent issues and commons problems that were seen during the sprint tournament. Scenarios discussed are accompanied by examples from the tournament with additional commentary and analysis.
 
 **Instructor:** Maxwell Mann
+

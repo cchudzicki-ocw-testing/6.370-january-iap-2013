@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -19,6 +21,7 @@ related_resources_text: '[Max''s Useful Battlecode Datasheet (PDF)](/courses/6-3
   (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Navigation'
 uid: be921d89-1754-d6b3-35ea-a339318bb1cf
 video_files:
@@ -33,3 +36,4 @@ video_metadata:
 **Description:** This lecture demonstrates pathing in a maze, and how to implement pathing in Battlecode. Metrics of success, possible undesireable behavior, bytecode tricks, and indexing are also discussed.
 
 **Instructor:** Maxwell Mann
+
